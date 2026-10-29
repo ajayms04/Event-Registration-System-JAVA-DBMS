@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # College Event Registration System (Java + MySQL + JDBC)
 
 A console-based team project demonstrating seven OOP concepts alongside database CRUD and registration workflows.
@@ -73,3 +74,7 @@ Add/view/update/delete students; add/view/update/delete events; register a stude
 7. Exception handling: `try/catch` for SQL and input errors; try-with-resources for database resources.
 
 See `docs/PROJECT_PROPOSAL.md` and `docs/VIVA_AND_DEMO.md` for the blueprint and viva prep.
+=======
+# Event-Registration-System-JAVA-DBMS
+College end semester project
+>>>>>>> 44663cd34bfb61923d2672dfe4c460a2c409848b
